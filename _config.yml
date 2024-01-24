@@ -1,0 +1,47 @@
+title: Fred Suter, Ph.D. - Senior Research Scientist
+description: 'Senior Research Scientist at the Oak Ridge National Laboratory. Research: Simulation of parallel and distributed computing systems; Scientific Workflows;  Scheduling'
+url: https://fred-suter.com
+
+markdown: kramdown
+enable-mathjax: yes
+
+permalink: /blog/:title/
+
+# Pagination
+paginate: 8
+paginate_path: /blog/page:num/
+
+include:
+  - _pages
+
+# scholar
+scholar:
+  sort_by: author
+  group_by: year
+  group_order: descending
+  type_order: [article, inproceedings, phdthesis, techreport]
+  bibliography_template: bib
+
+collections:
+  presentations:
+    output: true
+    permalink: /publications/presentations/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
+
+exclude:
+  - .git
+  - .github
+  - .idea
+  - .jekyll-cache
+
+plugins:
+  - jekyll-sitemap    # Adds sitemap to the website at /sitemap.xml
+  - jekyll-feed       # Adds feed to the website at /feed.xml
+  - jekyll-paginate   # Used for sorting posts by page numbers.
+  - jekyll-seo-tag    # Adds all the important SEO meta tags by default.
+  - jekyll-scholar

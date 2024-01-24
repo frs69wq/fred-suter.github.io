@@ -1,0 +1,53 @@
+# Image, name, profession in the sidebar
+
+image: /assets/images/Fred.jpg
+name: 'Fred Suter, Ph.D.'
+profession: '<strong>Senior Research Scientist</strong><br /><a href="https://ornl.gov" target="_blank">Oak Ridge National Laboratory</a><br />'
+email: suterf@ornl.gov
+
+menu:
+  - title: Publications
+    link: /publications/
+
+  - title: Professional Activities
+    link: /activities/
+
+  - title: Current and Past Students
+    link: /students/alumni/
+
+  - title: Teaching
+    link: /teaching/
+
+  - title: Funding Awards
+    link: /funding/
+
+  - title: News
+    link: /blog/
+
+  - title: Contact
+    link: _includes/contact.html
+
+social:
+  linkedin:
+    icon: fa-linkedin
+    link: https://www.linkedin.com/in/frederic-suter-1656455
+
+  github:
+    icon: fa-github
+    link: https://github.com/frs69wq
+
+  googlescholar:
+    icon: ai-google-scholar
+    link: https://scholar.google.com/citations?user=taujrLoAAAAJ&hl=en
+
+  dblp:
+    icon: ai-dblp
+    link: https://dblp.org/pid/66/3341.html
+
+  orcid:
+    icon: ai-orcid
+    link: http://orcid.org/0000-0003-1902-1955
+
+  twitter:
+    icon: fa-twitter
+    link: https://twitter.com/frs69wq
