@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body class="page">
+
+    <div class="lm-animated-bg"></div>
+    
+    <!-- Loading animation -->
+    <div class="preloader">
+      <div class="preloader-animation">
+        <div class="preloader-spinner">
+        </div>
+      </div>
+    </div>
+    <!-- /Loading animation -->
+
+    <!-- Scroll To Top Button -->
+    <div class="lmpixels-scroll-to-top"><i class="lnr lnr-chevron-up"></i></div>
+    <!-- /Scroll To Top Button -->
+
+    <div class="page-scroll">
+      <div id="page_container" class="page-container bg-move-effect" data-animation="transition-flip-in-right">
+	<!-- Header -->
+        {% include header.html %}
+	{% if entry.doi %}
+	<a href="http://dx.doi.org/{{ entry.doi }}" target="_blank">
+	  <i class="ai ai-doi"></i>
+	</a>
+	{% endif %}
+	<a href="/files/publications/{{ entry.key }}.pdf" target="_blank">
+	  <i class="far fa-file-pdf"></i>
+	</a>&nbsp;&nbsp;
+	{{ reference }}
+	<br />
+	<a data-toggle="collapse" href="#bib-{{ entry.key }}" role="button" aria-expanded="false"
+	   aria-controls="bib-{{ entry.key }}" style="color: #999">
+	  [BibTex]
+	</a>
+
+	<div class="collapse" id="bib-{{ entry.key }}">
+	  {% highlight plain %}
+	  {{ entry.bibtex }}
+	  {% endhighlight %}
+	</div>
+        <!-- Footer -->
+        {% include footer.html %}
+      </div>
+    </div>
+
+    <script src="assets/js/jquery-3.5.1.min.js"></script>
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src='assets/js/jquery.shuffle.min.js'></script>
+    <script src='assets/js/masonry.pkgd.min.js'></script>
+    <script src='assets/js/owl.carousel.min.js'></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCrDf32aQTCVENBhFJbMBKOUTiUAABtC2o"></script>
+    <script src="assets/js/jquery.googlemap.js"></script>
+    <script src="assets/js/validator.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
