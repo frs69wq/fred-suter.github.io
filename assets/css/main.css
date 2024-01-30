@@ -5828,3 +5828,21 @@ a.post-thumbnail:hover {
 /* ============================================================================= 
 15. Updates
 ============================================================================= */
+
+
+.publication h2 {
+  position: relative;
+  font-size: 21px;
+  z-index: 1;
+}
+
+.bibliography {
+  list-style: auto !important;
+}
+
+.bibliography li {
+  margin: 0 0 1em 1em;
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 1.45em;
+}
