@@ -8,7 +8,7 @@
 {% endif %}
 <a href="/files/publications/{{ entry.key }}.pdf" target="_blank">
   <i class="far fa-file-pdf"></i>
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 {{ reference }}
 <br />
 <a data-toggle="collapse" href="#bib-{{ entry.key }}" role="button" aria-expanded="false"
@@ -18,6 +18,6 @@
 
 <div class="collapse" id="bib-{{ entry.key }}">
   {% highlight plain %}
-  {{ entry.bibtex }}
+{{ entry.bibtex }}
   {% endhighlight %}
 </div>

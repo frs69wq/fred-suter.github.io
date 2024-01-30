@@ -16,6 +16,7 @@ include:
 
 # scholar
 scholar:
+  style: apa-no-ampersand
   sort_by: author
   group_by: year
   group_order: descending
