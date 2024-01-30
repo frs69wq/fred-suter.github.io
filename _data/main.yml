@@ -5,28 +5,6 @@ name: 'Fred Suter, Ph.D.'
 profession: '<strong>Senior Research Scientist</strong><br /><a href="https://ornl.gov" target="_blank">Oak Ridge National Laboratory</a><br />'
 email: suterf@ornl.gov
 
-menu:
-  - title: Publications
-    link: /publications/
-
-  - title: Professional Activities
-    link: /activities/
-
-  - title: Current and Past Students
-    link: /students/alumni/
-
-  - title: Teaching
-    link: /teaching/
-
-  - title: Funding Awards
-    link: /funding/
-
-  - title: News
-    link: /blog/
-
-  - title: Contact
-    link: _includes/contact.html
-
 social:
   linkedin:
     icon: fa-linkedin
