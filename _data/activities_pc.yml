@@ -209,16 +209,17 @@
       edition: 1st
       location: Chicago, USA
 
- - conference: Heterogenity in Computing Workshop
-   series: HCW
-   entries:
-     - year: 2008
-       edition: 17th
-       location: Miami, USA
-     - year: 2007
-       edition: 16th
-       location: Long Beach, USA
+- conference: Heterogenity in Computing Workshop
+  series: HCW
+  entries:
+    - year: 2008
+      edition: 17th
+      location: Miami, USA
+    - year: 2007
+      edition: 16th
+      location: Long Beach, USA
 
+#
 # - conference:
 #   series: 
 #   entries:
@@ -226,16 +227,8 @@
 #       edition: 
 #       location: 
 #       link: 
-
-
-
-    # * [[https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/12OmNweBUCy/pdf][7th IEEE International Conference on Cloud Computing Technology and Science]], Vancouver, Canada, Dec. 2015.
-
-    # * 3rd International Conference on Future Internet of Things and Cloud, Rome, Italy, Aug. 2015
-
-    # * 12th IEEE/ACM International Conference on Grid Computing, Lyon  France, Sep. 2011.
-    
-    # * Workshop on Challenges of Large Applications in Distributed Environments, Munich, Germany, Jun. 2009.
-    # * International Conference on Parallel Computing, Lyon, France, Sep. 2009
-
-
+# * [[https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/12OmNweBUCy/pdf][7th IEEE International Conference on Cloud Computing Technology and Science]], Vancouver, Canada, Dec. 2015.
+# * 3rd International Conference on Future Internet of Things and Cloud, Rome, Italy, Aug. 2015
+# * 12th IEEE/ACM International Conference on Grid Computing, Lyon  France, Sep. 2011.
+# * Workshop on Challenges of Large Applications in Distributed Environments, Munich, Germany, Jun. 2009.
+# * International Conference on Parallel Computing, Lyon, France, Sep. 2009
