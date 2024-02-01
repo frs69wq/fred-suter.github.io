@@ -1,0 +1,40 @@
+- agency: Agence National de la Recherche, France
+  acronym: ANR
+  entries:
+    - year: 2013
+      description: Reviewer
+    - year: 2011
+      description: Review Panel and Reviewer
+    - year: 2009
+      description: Reviewer
+
+- agency: Fonds de la Recherche Scientifique, Belgium
+  acronym: FNRS
+  entries:
+    - year: 2021
+      description: Reviewer
+    - year: 2020
+      description: Reviewer
+    - year: 2014
+      description: Reviewer
+  
+- agency: Israel Science Fundation
+  acronym: ISF
+  entries:
+    - year: 2013
+      description: Reviewer
+
+- agency: Netherlands Organisation for Scientific Research
+  acronym: NWO
+  link: https://www.nwo.nl/en
+  entries:
+    - year: 2011
+      description: Reviewer
+
+- agency: Swiss National Science Fundation
+  acronym: SNSF
+  entries:
+    - year: 2023
+      description: Reviewer
+
+

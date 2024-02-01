@@ -1,0 +1,112 @@
+---
+layout: default
+title: Professional Activities
+act_iscurrent: current-menu-item
+permalink: /activities.html
+description: Professional Activities
+---
+
+<div id="main" class="site-main">
+  <div id="main-content" class="single-page-content">
+    <div id="primary" class="content-area">
+      <div id="content" class="page-content
+			       site-content single-post" role="main">
+        <div class="page-title">
+	  <h2><i class="lnr lnr-briefcase"></i>&nbsp; Professional Activities</h2>
+	</div>
+
+
+        <div class="row">
+          <div class="col-xs-12 col-sm-12">
+
+            <!-- Journal Editor -->
+            <div class="block-title">
+              <h2>Journals Editor</h2>
+            </div>
+            <div class="timeline timeline-second-style clearfix">
+              {% for n in site.data.activities_editor %}
+              <div class="timeline-item clearfix">
+                <div class="left-part">
+                  <h5 class="item-period">{{ n.year }}</h5>
+                  <span class="item-company"></span>
+                </div>
+                <div class="divider"></div>
+                <div class="right-part">
+                  <strong style="color: #555">{{ n.role }}</strong> &mdash; <a href="{{ n.link }}" target="_blank" style="text-decoration: none">{{ n.journal }}</a>
+                </div>
+              </div>
+              {% endfor %}
+            </div>
+            <div class="white-space-50"></div>
+
+            <!-- Chair Roles in Conferences -->
+            <div class="block-title" style="margin-bottom: 0">
+              <h2>Chair Roles in Conferences</h2><br>
+            </div>
+
+            <div class="timeline">
+              {% assign chair = site.data.activities_chair %}
+              {% for n in chair %} 
+              <div class="timeline-item">
+                <div class="left-part">
+                  <h5 class="item-period">{{ n.year }}</h5>
+                </div>
+                {% for e in n.entries %}
+		<div class="right-part">
+                  <strong style="color: #555">{{ e.role }}</strong> &mdash;
+		  <a href="{{ e.link }}" target="_blank">{{ e.edition }} {{ e.conference }}  ({{ e.series }})</a>, {{ e.location }}.<br />
+		  {% if e.note %} <p>&nbsp;&nbsp;&nbsp;&nbsp;{{ e.note }}</p> {% endif %}
+                </div>
+		{% endfor %}
+	      </div>
+              {% endfor %}
+            </div>
+
+            <div class="white-space-50"></div>
+
+            <!-- PC -->
+            <div class="block-title" style="margin-bottom: 0">
+              <h2>Program Committees Member</h2>
+            </div>
+
+            <div class="timeline timeline-second-style clearfix">
+              {% assign pc = site.data.activities_pc %}
+              {% for n in pc %}
+              <h4 class="item-period" style="vertical-align: bottom">{{ n.conference }} ({{ n.series }})</h4>
+              <div class="timeline-item clearfix">
+                {% for e in n.entries %}
+		<h5 class="item-period">{{ e.year }}</h5> &mdash;
+	        <a href="{{ e.link }}" target="_blank">{{ e.edition }} {{ n.conference }}</a>, {{ e.location}}<br />
+              	{% endfor %}
+              </div>
+	      {% endfor %}
+            </div>
+
+            <div class="white-space-50"></div>
+
+            <!-- Funding Agencies Reviewer -->
+            <div class="block-title">
+              <h2>Funding Agencies Reviewer</h2>
+            </div>
+
+            <div class="timeline timeline-second-style clearfix">
+              {% assign funding = site.data.activities_funding %}
+              {% for n in funding %}
+              <h4 class="item-period"  style="margin-bottom: 0">
+		<a href="{{ n.link }}" target="_blank"> {{ n.acronym }} - {{ n.agency }}</a>
+	      </h4>
+              <div class="timeline-item clearfix">
+                {% for e in n.entries %}
+		<h5 class="item-period">{{ e.year }}</h5> &mdash;
+		<strong style="color: #555">{{ e.description }}</strong><br>
+                {% endfor %}
+              </div>
+              {% endfor %}
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+      

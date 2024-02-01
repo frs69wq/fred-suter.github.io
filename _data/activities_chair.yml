@@ -1,0 +1,73 @@
+- year: 2024
+  entries:
+    - conference: SIAM Conference on Parallel Processing for Scientific Computing
+      series: SIAM PP
+      role: Mini-symposium Co-organizer
+      note: "Driving Scientific Workflows from the Data Plane"
+      location: Baltimore, USA
+      link: https://www.siam.org/conferences/cm/conference/pp24
+      
+- year: 2023
+  entries:
+    - conference: IEEE eScience Conference
+      series: eScience
+      role: Workshop Chair
+      edition: 19th
+      location: Limassol, Cyprus
+      link: https://escience-conference.org/2023
+      
+    - conference: International Conference on Parallel Processing
+      series: ICPP
+      role: "Track Chair: Algorithms"
+      edition: 52nd
+      location: Salt Lake City, USA
+      link: https://icpp23.sci.utah.edu/
+
+- year: 2020
+  entries:
+    - conference: SIAM Conference on Parallel Processing for Scientific Computing
+      series: SIAM PP
+      role: Mini-symposium Co-organizer
+      note: The Many Faces of Simulation for HPC
+      location: Seattle, USA
+      link: https://www.siam.org/conferences/cm/conference/pp20
+  
+- year: 2021
+  entries:
+    - conference: Conférence francophone d’informatique en Parallélisme, Architecture et Système
+      series: COMPAS
+      role: General Chair
+      location: Lyon, France
+      link: https://2021.compas-conference.fr/
+
+- year: 2018
+  entries:
+    - conference: Conférence francophone d’informatique en Parallélisme, Architecture et Système
+      series: COMPAS
+      role: "Track Chair: Parallelism"
+      year: 2018
+      location: Toulouse, France
+      link: https://2018.compas-conference.fr
+
+- year: 2014      
+  entries:
+    - conference: IEEE/ACM International Conference for High Performance Computing, Networking, Storage, and Analysis
+      series: SC
+      role: "BoF Co-organizer"
+      note: "Performance Analysis and Simulation of MPI Applications and Runtimes at Exascale"
+      location: New Orleans, USA
+      link: http://sc14.supercomputing.org
+
+- year: 2011
+  entries:
+    - conference: IEEE/ACM International Conference on Grid Computing
+      series: GRID
+      role: Local Chair
+      edition: 12th
+      location: Lyon, France  
+    - conference: International European Conference on Parallel and Distributed Computing
+      series: EuroPar
+      role: Local Chair
+      edition: 17th
+      location: Bordeaux, France
+      link: http://europar2011.bordeaux.inria.fr/

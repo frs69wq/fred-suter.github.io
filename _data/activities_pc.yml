@@ -1,0 +1,241 @@
+- conference: IEEE/ACM International Conference for High Performance Computing, Networking, Storage, and Analysis
+  series: SC
+  entries:
+    - year: 2024
+      location: Atlanta, USA
+      link: https://sc24.supercomputing.org
+    - year: 2022
+      location: Dallas, USA
+      link: https://sc22.supercomputing.org
+    - year: 2021
+      location: Saint Louis, USA
+      link: https://sc21.supercomputing.org
+
+- conference: IEEE International Parallel & Distributed Processing Symposium
+  series: IPDPS
+  entries:
+    - year: 2022
+      edition: 36th
+      location: Lyon, France
+      link: https://www.ipdps.org/ipdps2022
+    - year: 2013
+      edition: 27th
+      location: Boston, USA
+
+- conference: International Conference on Parallel Processing
+  series: ICPP
+  entries:
+    - year: 2022
+      edition: 51st
+      location: Bordeaux, France
+      link: https://icpp22.gitlabpages.inria.fr
+    - year: 2020
+      edition: 50th
+      location: Edmonton, Canada
+      link: https://jnamaral.github.io/icpp20
+    - year: 2019
+      edition: 49th
+      location: Tokyo, Japan
+      link: https://www.hpcs.cs.tsukuba.ac.jp/icpp2019
+
+- conference: IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing
+  series: CCGrid
+  entries:
+    - year: 2021
+      edition: 21st
+      location: Melbourne, Australia
+      link: http://cloudbus.org/ccgrid2021/
+    - year: 2017
+      edition: 17th
+      location: Madrid, Spain
+      link: https://www.arcos.inf.uc3m.es/ccgrid2017
+    - year: 2019
+      edition: 19st
+      location: Larnaca, Cyprus
+    - year: 2011
+      edition: 11th
+      location: Newport Beach, USA
+
+- conference: International European Conference on Parallel and Distributed Computing
+  series: Euro-Par
+  entries:
+    - year: 2015
+      edition: 21st
+      location: Vienna, Austria
+      link: https://europar2015.par.tuwien.ac.at
+    - year: 2014
+      edition: 20th
+      location: Porto, Portugal
+    - year: 2011
+      edition: 17th
+      location: Bordeaux, France
+
+
+- conference: IEEE International Conference on eScience
+  series: eScience
+  entries:
+    - year: 2023
+      edition: 19th
+      location: Limassol, Cyprus
+      link: https://www.escience-conference.org/2023
+    - year: 2019
+      edition: 15th
+      location: San Diego, USA
+      link: https://escience2019.sdsc.edu/
+    - year: 2018
+      edition: 14th
+      location: Amsterdam, Netherlands
+
+
+- conference: IEEE International Symposium on Computer Architecture and High Performance Computing
+  series: SBAC-PAD
+  entries:
+    - year: 2023
+      edition: 35th
+      location: Porto Alegre, Brazil
+      link: https://cradrs.github.io/sbacpad2023/
+    - year: 2020
+      edition: 32nd
+      location: Porto, Portugal
+    - year: 2018
+      edition: 30th
+      location: Lyon, France
+      link: https://graal.ens-lyon.fr/sbac-pad
+
+- conference: International Conference on Algorithms and Architectures for Parallel Processing
+  series: ICA3PP
+  entries:
+    - year: 2019
+      edition: 19th
+      location: Melbourne, Australia
+      link: http://nsclab.org/ica3pp2019
+    - year: 2018
+      edition: 18th
+      location:  Guangzhou, China
+    - year: 2017
+      edition: 17th
+      location:  Helsinki, Finland
+      link: https://research.comnet.aalto.fi/ICA3PP2017
+
+- conference: European MPI Users' Group Meeting
+  series: EuroMPI
+  entries:
+    - year: 2016
+      edition: 23rd
+      location:  Edinburgh, Scotland
+      link: http://www.eurompi2016.ed.ac.uk
+    - year: 2015
+      edition: 22nd
+      location:  Bordeaux, France
+      link: https://eurompi2015.bordeaux.inria.fr/
+    - year: 2014
+      edition: 21st
+      location: Kyoto, Japan
+    - year: 2013
+      edition: 20th
+      location: Madrid, Spain
+
+- conference: International Meeting High Performance Computing for  Computational Science
+  series: VECPAR
+  entries:
+    - year: 2018
+      edition: 13th
+      location: Sao Pedro, Brazil
+    - year: 2016
+      edition: 12th
+      location: Porto, Portugal 
+    - year: 2012
+      edition: 10th
+      location:  Kobe, Japan
+
+- conference: International Conference on Cloud Computing and Services Science
+  series: CLOSER
+  entries:
+    - year: 2013
+      location: Aachen, Germany
+    - year: 2012
+      location: Porto, Portugal
+    - year: 2011
+      location:  Noordwijkerhout, The Netherlands
+    - year: 2010
+      location:  Valencia, Spain
+
+- conference: Workflows in Support of Large-Scale Science Workshop
+  series: WORKS
+  entries:
+    - year: 2023
+      edition: 18th
+      location: Denver, USA
+      link: https://works-workshop.org/2023
+    - year: 2022
+      edition: 17th
+      location: Dallas, USA
+      link: https://works-workshop.org/2022
+    - year: 2021
+      edition: 16th
+      location: Saint Louis, USA
+      link: https://works-workshop.org/2021
+    - year: 2020
+      edition: 15th
+      location: Atlanta, USA
+      link: https://works-workshop.org/2020
+    - year: 2019
+      edition: 14th
+      location: Denver, USA
+
+- conference: International Workshop on MapReduce and its Applications
+  series: MapReduce
+  entries:
+    - year: 2012
+      edition: 3rd
+      location:  Delft, The Netherlands
+    - year: 2011
+      edition: 2nd
+      location: San Jose, USA
+    - year: 2010
+      edition: 1st
+      location: Chicago, USA
+
+- conference: Virtualization Technologies for Distributed Computing Workshop
+  series: VTDC
+  entries: 
+    - year: 2012
+      edition: 3rd
+      location:  Delft, The Netherlands
+    - year: 2011
+      edition: 2nd
+      location: San Jose, USA
+    - year: 2010
+      edition: 1st
+      location: Chicago, USA
+
+ - conference: Heterogenity in Computing Workshop
+   series: HCW
+   entries:
+     - year: 2008
+       edition: 17th
+       location: Miami, USA
+     - year: 2007
+       edition: 16th
+       location: Long Beach, USA
+
+# - conference:
+#   series: 
+#   entries:
+#     - year: 2023
+#       edition: 
+#       location: 
+#       link: 
+
+
+
+    # * [[https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/12OmNweBUCy/pdf][7th IEEE International Conference on Cloud Computing Technology and Science]], Vancouver, Canada, Dec. 2015.
+
+    # * 3rd International Conference on Future Internet of Things and Cloud, Rome, Italy, Aug. 2015
+
+    # * 12th IEEE/ACM International Conference on Grid Computing, Lyon  France, Sep. 2011.
+    
+    # * Workshop on Challenges of Large Applications in Distributed Environments, Munich, Germany, Jun. 2009.
+    # * International Conference on Parallel Computing, Lyon, France, Sep. 2009
+
+
