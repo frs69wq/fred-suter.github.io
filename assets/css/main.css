@@ -5846,3 +5846,9 @@ a.post-thumbnail:hover {
   font-weight: 400;
   line-height: 1.45em;
 }
+
+.collapse.in {
+  visibility: visible;
+  display: block;
+}
+    
