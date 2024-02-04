@@ -1,0 +1,39 @@
+---
+layout: default
+bibj_iscurrent: current-menu-item
+permalink: /publications-journals.html
+---
+
+<div id="main" class="site-main">
+  <div id="main-content" class="single-page-content">
+    <div id="primary" class="content-area">
+      <div id="content" class="page-content
+			       site-content single-post" role="main">
+        <div class="page-title">
+	  
+	  <h2><i class="lnr lnr-graduation-hat"></i>&nbsp; Research Publications in Journals and Book Chapters </h2>
+Note that, in the list below, the list of authors is ranked by
+alphabetical order for the vast majority of the articles
+published while I was working in France.
+        </div>
+	<div class="row">
+	  <div class="col-xs-12 col-sm-12">
+            <div class="block-title">
+	      <h2>Journals</h2>
+            </div>
+	    <article class="publication">
+	      {% bibliography --query @article  %}
+	    </article>
+            <div class="p-50"></div>
+            <div class="block-title">
+	      <h2>Book Chapters</h2>
+            </div>
+	    <article class="publication">
+	      {% bibliography --query @inbook  %}
+	    </article>
+          </div>
+	</div>
+      </div>
+    </div>
+  </div>
+</div>
