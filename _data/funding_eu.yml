@@ -1,0 +1,19 @@
+EC:
+  - title: PRACE-5IP - PRACE 5th Implementation Phase Project
+    role: Co-PI
+    period: 01/2017 - 04/2019
+    amount: 15,785,078€
+    program: Horizon 2020 E-INFRA
+    id: 730913
+  - title: PRACE-4IP - PRACE 5th Implementation Phase Project
+    role: Co-PI
+    period: 02/2015 - 12/2017
+    amount: 16,354,408€
+    program: Horizon 2020 E-INFRA
+    id: 653838
+  - title: POP - Performance Optimisation and Productivity
+    role: Co-PI
+    period: 10/2015 - 03/2018
+    amount: 4,048,845€
+    program: Horizon 2020 Center of Excellence
+    id: 676553

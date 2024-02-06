@@ -1,0 +1,37 @@
+---
+layout: default
+fundu_iscurrent: current-menu-item
+permalink: /funding-us.html
+---
+
+<div id="main" class="site-main">
+  <div id="main-content" class="single-page-content">
+    <div id="primary" class="content-area">
+      <div id="content" class="page-content
+			       site-content single-post" role="main">
+        <div class="page-title">
+	  
+	  <h2><i class="lnr lnr-star"></i>&nbsp; U.S. Research Grants</h2>
+        </div>
+	<div class="row">
+	  <div class="col-xs-12 col-sm-12">
+            <div class="block-title">
+            <!-- ORNL -->
+            <h2>Oak Ridge National Laboratory</h2>
+            </div>
+            <div class="timeline">
+              {% for n in site.data.funding_us.ORNL %}
+              <div class="timeline-item">
+                <h5 class="item-period">{{ n.period }}</h5>
+                <h4 class="item-title">{{ n.title }} </h4>
+                {{ n.amount }} ({{ n.role }}) &mdash; {{ n.program}}
+		{% if  n.id  %} (Award #{{ n.id }}) {% endif %}
+	      </div>
+              {% endfor %}
+            </div>
+          </div>
+	</div>
+      </div>
+    </div>
+  </div>
+</div>

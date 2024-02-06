@@ -1,0 +1,107 @@
+---
+layout: default
+fund_iscurrent: current-menu-item
+permalink: /funding.html
+---
+
+<div id="main" class="site-main">
+  <div id="main-content" class="single-page-content">
+    <div id="primary" class="content-area">
+      <div id="content" class="page-content
+			       site-content single-post" role="main">
+        <div class="page-title">
+	  
+	  <h2><i class="lnr lnr-star"></i>&nbsp; Research Grants</h2>
+        </div>
+	<div class="row">
+	  <div class="col-xs-12 col-sm-12">
+            <div class="block-title">
+	      <h2>U.S.</h2>
+            </div>
+            <!-- ORNL -->
+            <h4>Oak Ridge National Laboratory</h4>
+            <div class="timeline">
+              {% for n in site.data.funding_us.ORNL %}
+              <div class="timeline-item">
+                <h5 class="item-period">{{ n.period }}</h5>
+                <h4 class="item-title">{{ n.title }} </h4>
+                {{ n.amount }} ({{ n.role }}) &mdash; {{ n.program}}
+		{% if  n.id  %} (Award #{{ n.id }}) {% endif %}
+	      </div>
+              {% endfor %}
+            </div>
+            <div class="white-space-50"></div>
+            <div class="block-title">
+	      <h2>Europe</h2>
+            </div>
+            <!-- EC -->
+            <h4>European Commission</h4>
+            <div class="timeline">
+              {% for n in site.data.funding_eu.EC %}
+              <div class="timeline-item">
+                <h5 class="item-period">{{ n.period }}</h5>
+                <h4 class="item-title">{{ n.title }} </h4>
+                {{ n.amount }} ({{ n.role }}) &mdash; {{ n.program}}
+		{% if  n.id  %} (Award #{{ n.id }}) {% endif %}
+	      </div>
+              {% endfor %}
+            </div>
+            </div>
+            <div class="white-space-50"></div>
+	    <div class="block-title">
+	      <h2>France</h2>
+            </div>
+            <!-- ANR -->
+            <h4>ANR</h4>
+            <div class="timeline">
+              {% for n in site.data.funding_fr.ANR %}
+              <div class="timeline-item">
+                <h5 class="item-period">{{ n.period }}</h5>
+                <h4 class="item-title">{{ n.title }} </h4>
+                {{ n.amount }} ({{ n.role }}) &mdash; {{ n.program}}
+		{% if  n.id  %} (Award #{{ n.id }}) {% endif %}
+	      </div>
+              {% endfor %}
+            </div>
+            <!-- CNRS -->
+            <h4>CNRS</h4>
+            <div class="timeline">
+              {% for n in site.data.funding_fr.CNRS %}
+              <div class="timeline-item">
+                <h5 class="item-period">{{ n.period }}</h5>
+                <h4 class="item-title">{{ n.title }} </h4>
+                {{ n.amount }} ({{ n.role }}) &mdash; {{ n.program}}
+		{% if  n.id  %} (Award #{{ n.id }}) {% endif %}
+	      </div>
+              {% endfor %}
+            </div>
+            <!-- INRIA -->
+            <h4>INRIA</h4>
+            <div class="timeline">
+              {% for n in site.data.funding_fr.INRIA %}
+              <div class="timeline-item">
+                <h5 class="item-period">{{ n.period }}</h5>
+                <h4 class="item-title">{{ n.title }} </h4>
+                {{ n.amount }} ({{ n.role }}) &mdash; {{ n.program}}
+		{% if  n.id  %} (Award #{{ n.id }}) {% endif %}
+	      </div>
+              {% endfor %}
+            </div>
+            <!-- AURA -->
+            <h4>Région Rhône-Alpes Auvergne</h4>
+            <div class="timeline">
+              {% for n in site.data.funding_fr.AURA %}
+              <div class="timeline-item">
+                <h5 class="item-period">{{ n.period }}</h5>
+                <h4 class="item-title">{{ n.title }} </h4>
+                {{ n.amount }} ({{ n.role }}) &mdash; {{ n.program}}
+		{% if  n.id  %} (Award #{{ n.id }}) {% endif %}
+	      </div>
+              {% endfor %}
+            </div>
+          </div>
+	</div>
+      </div>
+    </div>
+  </div>
+</div>

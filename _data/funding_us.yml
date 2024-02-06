@@ -1,0 +1,13 @@
+ORNL:
+  - title: Multi-workflow Orchestration and Lightweight Integrated Data Analysis Across Facilities
+    role: Co-PI
+    period: 10/2023 - 09/2025 
+    amount: $743,000
+    program:  Laboratory Directed Research and Development Program - INTERSECT
+    id: 11521
+  - title: SWAT - Science to Workflow Acceleration Tool
+    role: PI
+    period: 07/2022 - 07/2024
+    amount: $682,431
+    program: Laboratory Directed Research and Development Program - Strategic Hire
+    id: 11184

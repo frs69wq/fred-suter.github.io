@@ -1,0 +1,39 @@
+---
+layout: default
+funde_iscurrent: current-menu-item
+permalink: /funding-eu.html
+---
+
+<div id="main" class="site-main">
+  <div id="main-content" class="single-page-content">
+    <div id="primary" class="content-area">
+      <div id="content" class="page-content
+			       site-content single-post" role="main">
+        <div class="page-title">
+	  
+	  <h2><i class="lnr lnr-star"></i>&nbsp; European Research Grants</h2>
+        </div>
+	<div class="row">
+	  <div class="col-xs-12 col-sm-12">
+	    <div class="block-title">
+	    <h2>European Commission</h2>
+            </div>
+            <!-- EC -->
+            <div class="timeline">
+              {% for n in site.data.funding_eu.EC %}
+              <div class="timeline-item">
+                <h5 class="item-period">{{ n.period }}</h5>
+                <h4 class="item-title">{{ n.title }} </h4>
+                {{ n.amount }} ({{ n.role }}) &mdash; {{ n.program}}
+		{% if  n.id  %} (Award #{{ n.id }}) {% endif %}
+	      </div>
+              {% endfor %}
+            </div>
+            </div>
+
+          </div>
+	</div>
+      </div>
+    </div>
+  </div>
+</div>
