@@ -21,30 +21,30 @@ ANR:
 CNRS:
   - title: WRENCH - Workflow Management System Simulation Workbench
     role: PI
-    period: 01/16 -- 12/18
+    period: 01/2016 -- 12/2018
     amount: 22,000€
     program: PICS
     id: 7239
   - title: DimSim - Simulation Environment for Cluster and Grid Dimensionning 
     role: PI
-    period: 01/10 - 12/12
+    period: 01/2010 - 12/2012
     amount: 19,000€ 
     program: PICS
     id: 5473
 INRIA:
   - title: SimGlite - When SimGrid Meets gLite
     role: PI
-    period: 06/10 - 12/11
+    period: 06/2010 - 12/2011
     amount: 5,000€
     program: Interface Institut des Grilles / ALADDIN
   - title: SimData - Simulation of CERN's distributed data management system
     role: PI
-    period: 06/10 - 12/11
+    period: 06/2010 - 12/2011
     amount: 5,000€
     program: Interface Institut des Grilles / ALADDIN
   - title: OTaPHe -Parallel Tasks Scheduling on Heterogeneous Environment
     role: PI
-    period: 01/05 - 12/06
+    period: 01/2005 - 12/2006
     amount: 38,000€
     program: ARC
 AURA:
