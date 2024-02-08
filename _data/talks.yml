@@ -13,25 +13,27 @@
       location: Wadern, Germany
       link: https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23171
 
+- year: 2022
+  entries:
+    - title: High performance data management and in situ workflows
+      event: Lightning talk  - 2022 edition of the Workflows Community Summit
+      link: https://workflows.community/summits/2022/
+      video: https://youtu.be/pWLZIL5iQw0
+    - title: Performance Evaluation Through Simulation with SimGrid
+      event: Keynote of the 2nd Workshop on Performance EngineeRing, Modelling, Analysis, and VisualizatiOn STrategy (PERMAVOST)
+      location: Minneapolis, USA
+      link: https://permavost.github.io/2022.html
+    - title: An Introduction to SimGrid&colon; Versatile Simulation of Distributed Systemsand Applications
+      event: Seminar of the CAP Reading Group at University of Illinois
+      location: Urbana Champaign, USA 
+      link: https://wiki.illinois.edu/wiki/display/CAPSeminar/2022
+      video: https://cdnapisec.kaltura.com/html5/html5lib/v2.93.1/mwEmbedFrame.php/p/1329972/uiconf_id/26883701/entry_id/1_0nl9u5h5?wid=_1329972
+    
   # - title:
   #   event:
   #   location:
   #   link:
 
-  # - title:
-  #   event:
-  #   location:
-  #   link:
-
-
-  # + //, [[][]] , 2023.
-  # + //,  [[][]] Dagstuhl seminar, Wadern, Germany, 2023.
-  # + /[[https://youtu.be/pWLZIL5iQw0][High performance data management and in situ workflows]]/, lightning talk at [[https://workflows.community/summits/2022/][2022 edition of the Workflows Community Summit]], Online, 2022.
-  # + /Performance Evaluation Through Simulation with SimGrid/, keynote of the [[https://permavost.github.io/2022.html][2nd
-  #   Workshop on Performance EngineeRing, Modelling, Analysis, and VisualizatiOn
-  #   STrategy (PERMAVOST)]], Minneapolis, MN, 2022.
-  # + /[[https://cdnapisec.kaltura.com/html5/html5lib/v2.93.1/mwEmbedFrame.php/p/1329972/uiconf_id/26883701/entry_id/1_0nl9u5h5?wid=_1329972][An Introduction to SimGrid: Versatile Simulation of Distributed Systemsand Applications]]/, seminar of the [[https://wiki.illinois.edu/wiki/display/CAPSeminar/2022][CAP Reading Group at University of
-  #   Illinois]], IL, 2022.
   # + /The Many Faces of Simulation for HPC/, 2020 SIAM Conference on
   #   Parallel Processing for Scientific Applications, /[[https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=67786][The Many Faces
   #   of Simulation for HPC]]/ Minisymposium, Seattle, WA, 2020.
