@@ -58,6 +58,25 @@
      link: https://indico.cern.ch/event/765497/timetable/#20190327.detailed
      file: files/talks/batch-hepix19.pdf
 
+- year: 2018
+  entries:
+  - title: Reducing the Human-in-the-Loop Component of the Scheduling of Large HTC  Workloads
+    type: Seminar
+    event: Information Science Institute, University of Southern California 
+    location: Marina del Rey, USA
+    link: https://cms.isi.edu/events/calendar/12419
+  - title: What tools to rank machines?
+    type: Panel (in French)
+    event: Rencontres scientifiques et techniques du calcul et des données
+    location: Toulouse, France
+    link: https://jcad2018.sciencesconf.org/resource/page/id/7.html
+    video: https://webcast.in2p3.fr/video/table-ronde-quel-s-outil-s-pour-classer-les-machines
+  - title: Simulating MPI applications&colon; the SMPI Approach
+    type: Invited talk
+    event: 2018 SIAM Conference on Parallel Processing for Scientific Applications &mdash; Modeling and Simulation of HPC Architectures and Applications
+    location: Tokyo, Japan
+    link: https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=63613
+  
 # - year:
 #   entries:
   # - title:
@@ -71,30 +90,18 @@
   #   location:
   #   link:
 
-  # + /Reducing the Human-in-the-Loop Component of the Scheduling of Large HTC  Workloads/, [[https://cms.isi.edu/events/calendar/12419][Information Science Institute, University of Southern California]], Los Angeles, CA, 2018.
-  # + [[https://webcast.in2p3.fr/video/table-ronde-quel-s-outil-s-pour-classer-les-machines][/What tools to rank machines?/]] (in French) panelist at [[https://jcad2018.sciencesconf.org/resource/page/id/7.html][Rencontres scientifiques et
-  #   techniques du calcul et des données (JCAD)]], Toulouse, France 2018.
-  # + /Simulating MPI applications : the SMPI Approach/, 2018 SIAM Conference on
-  #   Parallel Processing for Scientific Applications, [[https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=63613][/Modeling and Simulation
-  #   of HPC Architectures and Applications/]] Minisymposium, Tokyo, Japan, 2018.
-  # + [[https://speakerdeck.com/scitech/modeling-distributed-platforms-from-application-traces-for-realistic-file-transfer-simulation][/Modeling Distributed Platforms from Application Traces for Realistic File
-  #   Transfer Simulation/]], Information Science Institute, University of Southern
-  #   California, Los Angeles, CA, 2016.
+  # + [[https://speakerdeck.com/scitech/modeling-distributed-platforms-from-application-traces-for-realistic-file-transfer-simulation][/Modeling Distributed Platforms from Application Traces for Realistic File Transfer Simulation/]], Information Science Institute, University of Southern California, Los Angeles, CA, 2016.
+  
   # + /Simulation of HPC applications with SimGrid/, [[https://www.hipeac.net/csw/2015/milano/#/program/][HiPEAC Computing System Week]], Milano, Italy,  2015.
-  # + /User Engagement in Cosmology/, SNFactory annual collaboration
-  #   meeting, Berkeley, CA, 2015.
-  # + /SimGrid, Versatile Simulation of Distributed Systems/, Information
-  #   Science Institute, University of Southern California, Los Angeles,
+  # + /User Engagement in Cosmology/, SNFactory annual collaboration meeting, Berkeley, CA, 2015.
+  # + /SimGrid, Versatile Simulation of Distributed Systems/, Information Science Institute, University of Southern California, Los Angeles,
   #   CA, 2015.
-  # + /Computer Scientists simulate too \ldots/, Journées Informatiques de
-  #   l'IN2P3-IRFU, 2014.
-  # + /Toward More Scalable Off-line Simulations of MPI applications/,
-  #   Clusters, Clouds, and Data for Scientific Computing, 2014. 
-  # + /Dimensioning through Simulation with SimGrid/,  CoreGRID/ERCIM
-  #   Workshop on Grids, Clouds and P2P Computing, 2012.  
-  # + /Paving the Road for the Simulation of Exascale and Cloud Systems/ ,
-  #   Clusters, Clouds, and Data for Scientific Computing, 2012.
-  # + /On Cluster Resource Allocation for Multiple Parallel Task Graphs/,
-  #   3rd  Aussois Scheduling Workshop , 2010.
-  # + /From Grids to Clouds, new problems and new solutions/, panel
-  #   animator, École Normale Supérieure de Lyon, 2010.
+  
+  # + /Computer Scientists simulate too \ldots/, Journées Informatiques de   l'IN2P3-IRFU, 2014.
+  # + /Toward More Scalable Off-line Simulations of MPI applications/, Clusters, Clouds, and Data for Scientific Computing, 2014. 
+
+# + /Dimensioning through Simulation with SimGrid/,  CoreGRID/ERCIM Workshop on Grids, Clouds and P2P Computing, 2012.  
+# + /Paving the Road for the Simulation of Exascale and Cloud Systems/ ,  Clusters, Clouds, and Data for Scientific Computing, 2012.
+
+# + /On Cluster Resource Allocation for Multiple Parallel Task Graphs/,  3rd  Aussois Scheduling Workshop , 2010.
+# + /From Grids to Clouds, new problems and new solutions/, panel animator, École Normale Supérieure de Lyon, 2010.
