@@ -1,30 +1,36 @@
 - year: 2023
   entries:
     - title: Driving Modern Workflows from the Data Plane
-      event: SC23 Bird of a Feather - Workflows Community&colon;  Modern Workflows for Continuum and Cross-Facility Computing
+      type: Invited talk
+      event: SC23 Bird of a Feather &mdash; Workflows Community&colon;  Modern Workflows for Continuum and Cross-Facility Computing
       location: Denver, USA
       link: https://sc23.supercomputing.org/presentation/?id=bof199&sess=sess368
     - title: How to Express/Handle the Dynamic and Cyclic Nature of Modern Workflows
-      event: Dagstuhl seminar - Improving Fairness in a Large Scale HTC System Through Workload Analysis and Simulation
+      type: Invited talk
+      event: Dagstuhl seminar &mdash; Integrating HPC, AI, and Workflows for Scientific Data Analysis
       location: Wadern, Germany
       link: https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23352
     - title: Driving Response to Uncertainty in Job Duration and Loss of Work
-      event: Dagstuhl seminar - "Improving Fairness in a Large Scale HTC System Through Workload Analysis and Simulation"
+      type: Invited talk
+      event: Dagstuhl seminar &mdash; Driving HPC Operations With Holistic Monitoring and Operational Data Analytics
       location: Wadern, Germany
       link: https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23171
 
 - year: 2022
   entries:
-    - title: High performance data management and in situ workflows
-      event: Lightning talk  - 2022 edition of the Workflows Community Summit
+    - title: High Performance Data Management and In Situ Workflows
+      type: Lightning talk
+      event: 2022 edition of the Workflows Community Summit
       link: https://workflows.community/summits/2022/
       video: https://youtu.be/pWLZIL5iQw0
     - title: Performance Evaluation Through Simulation with SimGrid
-      event: Keynote of the 2nd Workshop on Performance EngineeRing, Modelling, Analysis, and VisualizatiOn STrategy (PERMAVOST)
+      type: Keynote
+      event: 2nd Workshop on Performance EngineeRing, Modelling, Analysis, and VisualizatiOn STrategy (PERMAVOST)
       location: Minneapolis, USA
       link: https://permavost.github.io/2022.html
     - title: An Introduction to SimGrid&colon; Versatile Simulation of Distributed Systemsand Applications
-      event: Seminar of the CAP Reading Group at University of Illinois
+      type: Seminar
+      event: CAP Reading Group at University of Illinois
       location: Urbana Champaign, USA 
       link: https://wiki.illinois.edu/wiki/display/CAPSeminar/2022
       video: https://cdnapisec.kaltura.com/html5/html5lib/v2.93.1/mwEmbedFrame.php/p/1329972/uiconf_id/26883701/entry_id/1_0nl9u5h5?wid=_1329972

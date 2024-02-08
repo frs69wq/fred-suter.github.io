@@ -21,7 +21,7 @@ permalink: /publications-talks.html
                 <h5 class="item-period">{{ t.year }}</h5>
                 {% for e in t.entries %}
                 <h4 class="item-title">{{ e.title }}</h4>
-                <a href="{{ e.link }}" target="_blank"> {{ e.event }}</a>, {{ e.location }}
+                <b> {{ e.type }}</b> &mdash; <a href="{{ e.link }}" target="_blank"> {{ e.event }}</a>, {{ e.location }}
 		{% endfor %}
 	      </div>
               {% endfor %}
