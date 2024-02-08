@@ -35,21 +35,43 @@
       link: https://wiki.illinois.edu/wiki/display/CAPSeminar/2022
       video: https://cdnapisec.kaltura.com/html5/html5lib/v2.93.1/mwEmbedFrame.php/p/1329972/uiconf_id/26883701/entry_id/1_0nl9u5h5?wid=_1329972
     
+- year: 2020
+  entries:
+   - title: The Many Faces of Simulation for HPC
+     type: Invited talk 
+     event: 2020 SIAM Conference on Parallel Processing for Scientific Applications &mdash; The Many Faces of Simulation for HPC minisymposium
+     location: Seattle, USA
+     link: https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=67786
+   - title: Learning-based Approaches to Estimate Job Wait Time in HTC Datacenters
+     type: Invited talk
+     event: HEPiX Fall Workshop
+     location: Strasbourg, France
+     link: https://indico.cern.ch/event/898285/timetable/#20201013.detailed
+     file: files/talks/batch-hepix20.pdf
+
+- year: 2019
+  entries:
+   - title: How Fair is my Fair-Sharing? Exposing Some Hidden Behavior Through Workload Analysis
+     type: Invited talk
+     event: HEPiX Spring Workshop
+     location: San Diego, USA
+     link: https://indico.cern.ch/event/765497/timetable/#20190327.detailed
+     file: files/talks/batch-hepix19.pdf
+
+# - year:
+#   entries:
   # - title:
+  #   type:
+  #   event:
+  #   location:
+  #   link:
+  # - title:
+  #   type:
   #   event:
   #   location:
   #   link:
 
-  # + /The Many Faces of Simulation for HPC/, 2020 SIAM Conference on
-  #   Parallel Processing for Scientific Applications, /[[https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=67786][The Many Faces
-  #   of Simulation for HPC]]/ Minisymposium, Seattle, WA, 2020.
-  # + [[https://indico.cern.ch/event/898285/contributions/4029242/attachments/2121817/3571441/hepix-20-slides.pdf][/Learning-based Approaches to Estimate Job Wait Time in HTC Datacenters/]],
-  #   [[https://indico.cern.ch/event/898285/timetable/#20201013.detailed][HEPiX Fall Workshop]], Strasbourg, France, 2020.
-  # + [[https://indico.cern.ch/event/765497/contributions/3348863/attachments/1819222/3018996/FairFarirSharing.mp4][/How Fair is my Fair-Sharing? Exposing Some Hidden Behavior Through
-  #   Workload Analysis/]], [[https://indico.cern.ch/event/765497/timetable/#20190327.detailed][HEPiX Spring Workshop]], San Diego, CA, 2019.
-  # + /Reducing the Human-in-the-Loop Component of the Scheduling of Large HTC
-  #   Workloads/, [[https://cms.isi.edu/events/calendar/12419][Information Science Institute, University of Southern
-  #   California]], Los Angeles, CA, 2018.
+  # + /Reducing the Human-in-the-Loop Component of the Scheduling of Large HTC  Workloads/, [[https://cms.isi.edu/events/calendar/12419][Information Science Institute, University of Southern California]], Los Angeles, CA, 2018.
   # + [[https://webcast.in2p3.fr/video/table-ronde-quel-s-outil-s-pour-classer-les-machines][/What tools to rank machines?/]] (in French) panelist at [[https://jcad2018.sciencesconf.org/resource/page/id/7.html][Rencontres scientifiques et
   #   techniques du calcul et des données (JCAD)]], Toulouse, France 2018.
   # + /Simulating MPI applications : the SMPI Approach/, 2018 SIAM Conference on
