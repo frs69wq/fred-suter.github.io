@@ -1,0 +1,50 @@
+---
+layout: default
+fundc_iscurrent: current-menu-item
+permalink: /funding-current.html
+---
+
+<div id="main" class="site-main">
+  <div id="main-content" class="single-page-content">
+    <div id="primary" class="content-area">
+      <div id="content" class="page-content
+			       site-content single-post" role="main">
+        <div class="page-title">
+	  
+	  <h2><i class="linecons linecons-star"></i>&nbsp; Current Funding Research Projects</h2>
+        </div>
+	<div class="row">
+	  <div class="col-xs-12 col-sm-12">
+            <div class="block-title">
+            <!-- ORNL -->
+            <h2>Oak Ridge National Laboratory</h2>
+            </div>
+            <div class="timeline">
+              {% for n in site.data.funding_current.ORNL %}
+              <div class="timeline-item">
+                <h5 class="item-period">{{ n.period }}</h5>
+                <h4 class="item-title">{{ n.title }} </h4>
+                {{ n.amount }} ({{ n.role }}) &mdash; {{ n.program}}
+		{% if  n.id  %} (Award #{{ n.id }}) {% endif %}
+		<br/>
+		<a data-toggle="collapse" href="#grant-{{ n.id }}" role="button"
+		   aria-expanded="false" aria-controls="grant-{{ n.id }}" style="color: #999">
+		  [Details]
+		</a>
+
+		<div class="collapse" id="grant-{{ n.id }}">
+		  <div class="warning" style='padding:1em; background-color:#E0E0E0; color:#333'>
+		    <span><p style='margin-left:1em;'>
+			{{ n.description }}
+		    </p></span>
+		  </div>
+		</div>
+	      </div>
+              {% endfor %}
+            </div>
+          </div>
+	</div>
+      </div>
+    </div>
+  </div>
+</div>
