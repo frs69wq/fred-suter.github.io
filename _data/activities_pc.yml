@@ -25,6 +25,10 @@
 - conference: International Conference on Parallel Processing
   series: ICPP
   entries:
+    - year: 2024
+      edition: 53st
+      location: Gotland, Sweden
+      link: https://icpp2024.org/
     - year: 2022
       edition: 51st
       location: Bordeaux, France
@@ -90,6 +94,10 @@
 - conference: IEEE International Symposium on Computer Architecture and High Performance Computing
   series: SBAC-PAD
   entries:
+    - year: 2024
+      edition: 36th
+      location: Hilo, USA
+      link: https://sites.google.com/ime.usp.br/sbac2024
     - year: 2023
       edition: 35th
       location: Porto Alegre, Brazil
@@ -163,6 +171,10 @@
 - conference: Workflows in Support of Large-Scale Science Workshop
   series: WORKS
   entries:
+    - year: 2024
+      edition: 19th
+      location: Atlanta, USA
+      link: https://works-workshop.org/
     - year: 2023
       edition: 18th
       location: Denver, USA
