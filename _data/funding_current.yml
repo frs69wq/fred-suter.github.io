@@ -4,7 +4,20 @@ USDOE:
     period: 10/2023 - 09/2028 
     amount: $10,0000
     program: US Department of Energy, Office of Advanced Scientific Computing Research  
-    description: We can optimize the resilience of the workflows by intelligently placing the data and processing across the distributed resources. This will involve designing and developing an intelligent, introspective, and dynamic workflow by drawing on a system model based on years of data captured from a large-scale production system. It will offer control and management capabilities required at all timescales -- from NRT to delivery of scientific insight. The overarching goal of this proposed work is to conduct research in three areas: 1) dynamic modeling (these methods can quantitatively capture dynamic and adaptive workflow and system behavior at runtime), 2) complex high-throughput (HT) and NRT workflows resilience, and 3) optimal data placement and resources utilization.
+    description: >    
+	We can optimize the resilience of the workflows by
+	intelligently placing the data and processing across the
+	distributed resources. This will involve designing and
+	developing an intelligent, introspective, and dynamic workflow
+	by drawing on a system model based on years of data captured
+	from a large-scale production system. It will offer control
+	and management capabilities required at all timescales -- from
+	NRT to delivery of scientific insight. The overarching goal of
+	this proposed work is to conduct research in three areas: 1)
+	dynamic modeling (these methods can quantitatively capture
+	dynamic and adaptive workflow and system behavior at runtime),
+	2) complex high-throughput (HT) and NRT workflows resilience,
+	and 3) optimal data placement and resources utilization.
 
 ORNL:
   - title: Multi-workflow Orchestration and Lightweight Integrated Data Analysis Across Facilities
@@ -13,7 +26,33 @@ ORNL:
     amount: $743,000
     program:  Laboratory Directed Research and Development Program - INTERSECT
     id: 11521
-    description: Department of Energy (DOE) science requires more experimental complexity and computational scale than ever before, with multidisciplinary teams spanning across science groups and computing facilities. As an example, chemists use an electron microscope to generate terabytes of data per hour that are preprocessed in the Edge and shipped to an HPC cluster for distributed deep learning, which is used to assist the chemist to re-tune the microscope (i.e., feedback loop). However, no existing solution allows scientists to run a science campaign with a series of connected workflows, known as a multi-workflow, as a single, systematic, and automated process; hence, they instead run the individual pieces at their facility and manually transfer data between each step. Coordinating federated and heterogeneous scientific tools, workflow, storage systems, and facilities is challenging, and addressing these challenges can accelerate scientific discoveries and the DOE's mission. Our proposal combines Multi-workflow Execution Orchestration and Multi-workflow Integrated Data Analysis in a symbiotic manner across facilities. To implement this, we use the Zambeze and FlowCept frameworks and together they could compose the System-of-Systems architecture of INTERSECT. Zambeze acts as the controller for workflows across facilities in the control plane, while FlowCept interfaces simultaneously with the data and control planes to autonomously capture provenance, metadata, and pointers to large scientific data files, providing a lightweight integrated data view at runtime.
+    description: >
+      Department of Energy (DOE) science requires more experimental
+      complexity and computational scale than ever before, with
+      multidisciplinary teams spanning across science groups and
+      computing facilities. As an example, chemists use an electron
+      microscope to generate terabytes of data per hour that are
+      preprocessed in the Edge and shipped to an HPC cluster for
+      distributed deep learning, which is used to assist the chemist
+      to re-tune the microscope (i.e., feedback loop). However, no
+      existing solution allows scientists to run a science campaign
+      with a series of connected workflows, known as a multi-workflow,
+      as a single, systematic, and automated process; hence, they
+      instead run the individual pieces at their facility and manually
+      transfer data between each step. Coordinating federated and
+      heterogeneous scientific tools, workflow, storage systems, and
+      facilities is challenging, and addressing these challenges can
+      accelerate scientific discoveries and the DOE's mission. Our
+      proposal combines Multi-workflow Execution Orchestration and
+      Multi-workflow Integrated Data Analysis in a symbiotic manner
+      across facilities. To implement this, we use the Zambeze and
+      FlowCept frameworks and together they could compose the
+      System-of-Systems architecture of INTERSECT. Zambeze acts as the
+      controller for workflows across facilities in the control plane,
+      while FlowCept interfaces simultaneously with the data and
+      control planes to autonomously capture provenance, metadata, and
+      pointers to large scientific data files, providing a lightweight
+      integrated data view at runtime.
     
   - title: SWAT - Science to Workflow Acceleration Tool
     role: PI
@@ -21,4 +60,30 @@ ORNL:
     amount: $682,431
     program: Laboratory Directed Research and Development Program - Strategic Hire
     id: 11184
-    description: "Extreme scale science requires scientists to combine multiple computational tasks in complex workflows, efficiently managing large amounts of data, and fully exploiting the performance of the entire DOE computing ecosystem, from the edge to supercomputers. To this end, ORNL scientists have to express their research ideas into these workflows that can be implemented by computer scientists. Going from science to workflows requires domain scientists to express their needs from a different perspective to select the most adapted and efficient tools. However, this is an error-prone and tedious process, as there is no turnkey solution in such a diverse ecosystem. Thus, we will develop a comprehensive simulation-based framework to help scientists to easily prototype their scientific workflows, while expressing all the important information needed by computer scientists to provide them with the most efficient implementation. We will be building simulators that allow them to get major insights into the expected performance and scalability of their workflow as it changes in time. These simulators will grow in accuracy and fidelity as we further develop this long term vision and engage with all the needed actors, from facilities to scientific applications. We will eventually create a world-class scientific instrument for the performance evaluation of scientific workflows in the early stages of their design. Our framework will ultimately lead to enhanced productivity and the ability for DOE scientists to run their workflows at larger scales."
+    description: >
+      Extreme scale science requires scientists to combine multiple
+      computational tasks in complex workflows, efficiently managing
+      large amounts of data, and fully exploiting the performance of
+      the entire DOE computing ecosystem, from the edge to
+      supercomputers. To this end, ORNL scientists have to express
+      their research ideas into these workflows that can be
+      implemented by computer scientists. Going from science to
+      workflows requires domain scientists to express their needs from
+      a different perspective to select the most adapted and efficient
+      tools. However, this is an error-prone and tedious process, as
+      there is no turnkey solution in such a diverse ecosystem. Thus,
+      we will develop a comprehensive simulation-based framework to
+      help scientists to easily prototype their scientific workflows,
+      while expressing all the important information needed by
+      computer scientists to provide them with the most efficient
+      implementation. We will be building simulators that allow them
+      to get major insights into the expected performance and
+      scalability of their workflow as it changes in time. These
+      simulators will grow in accuracy and fidelity as we further
+      develop this long term vision and engage with all the needed
+      actors, from facilities to scientific applications. We will
+      eventually create a world-class scientific instrument for the
+      performance evaluation of scientific workflows in the early
+      stages of their design. Our framework will ultimately lead to
+      enhanced productivity and the ability for DOE scientists to run
+      their workflows at larger scales.
