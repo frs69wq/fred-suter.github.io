@@ -4,8 +4,8 @@ USDOE:
     period: 10/2023 - 09/2028 
     amount: $10,0000
     program: US Department of Energy, Office of Advanced Scientific Computing Research  
-    description: >    
-	We can optimize the resilience of the workflows by
+    description: >
+        We can optimize the resilience of the workflows by
 	intelligently placing the data and processing across the
 	distributed resources. This will involve designing and
 	developing an intelligent, introspective, and dynamic workflow
