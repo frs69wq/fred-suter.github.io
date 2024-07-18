@@ -18,6 +18,18 @@ permalink: /funding.html
             <div class="block-title">
 	      <h2>U.S.</h2>
             </div>
+            <!-- DOE -->
+            <h4>U.S. Department of Energy</h4>
+            <div class="timeline">
+              {% for n in site.data.funding_us.USDOE %}
+              <div class="timeline-item">
+                <h5 class="item-period">{{ n.period }}</h5>
+                <h4 class="item-title">{{ n.title }} </h4>
+                {{ n.amount }} ({{ n.role }}) &mdash; {{ n.program}}
+		{% if  n.id  %} (Award #{{ n.id }}) {% endif %}
+	      </div>
+              {% endfor %}
+            </div>
             <!-- ORNL -->
             <h4>Oak Ridge National Laboratory</h4>
             <div class="timeline">

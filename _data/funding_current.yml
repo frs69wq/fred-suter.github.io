@@ -4,20 +4,20 @@ USDOE:
     period: 10/2023 - 09/2028 
     amount: $10,0000
     program: US Department of Energy, Office of Advanced Scientific Computing Research  
-    description: >
-        We can optimize the resilience of the workflows by
-	intelligently placing the data and processing across the
-	distributed resources. This will involve designing and
-	developing an intelligent, introspective, and dynamic workflow
-	by drawing on a system model based on years of data captured
-	from a large-scale production system. It will offer control
-	and management capabilities required at all timescales -- from
-	NRT to delivery of scientific insight. The overarching goal of
-	this proposed work is to conduct research in three areas: 1)
-	dynamic modeling (these methods can quantitatively capture
-	dynamic and adaptive workflow and system behavior at runtime),
-	2) complex high-throughput (HT) and NRT workflows resilience,
-	and 3) optimal data placement and resources utilization.
+    description:
+       "We can optimize the resilience of the workflows by
+       intelligently placing the data and processing across the
+       distributed resources. This will involve designing and
+       developing an intelligent, introspective, and dynamic workflow
+       by drawing on a system model based on years of data captured
+       from a large-scale production system. It will offer control
+       and management capabilities required at all timescales -- from
+       NRT to delivery of scientific insight. The overarching goal of
+       this proposed work is to conduct research in three areas: 1)
+       dynamic modeling (these methods can quantitatively capture
+       dynamic and adaptive workflow and system behavior at runtime),
+       2) complex high-throughput (HT) and NRT workflows resilience,
+       and 3) optimal data placement and resources utilization."
 
 ORNL:
   - title: Multi-workflow Orchestration and Lightweight Integrated Data Analysis Across Facilities
@@ -26,7 +26,7 @@ ORNL:
     amount: $743,000
     program:  Laboratory Directed Research and Development Program - INTERSECT
     id: 11521
-    description: >
+    description:
       Department of Energy (DOE) science requires more experimental
       complexity and computational scale than ever before, with
       multidisciplinary teams spanning across science groups and
@@ -60,7 +60,7 @@ ORNL:
     amount: $682,431
     program: Laboratory Directed Research and Development Program - Strategic Hire
     id: 11184
-    description: >
+    description:
       Extreme scale science requires scientists to combine multiple
       computational tasks in complex workflows, efficiently managing
       large amounts of data, and fully exploiting the performance of
