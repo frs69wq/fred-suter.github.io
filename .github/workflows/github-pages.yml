@@ -11,6 +11,9 @@ concurrency:
   
 jobs:
   github-pages:
+    runs:
+      using: 'node20'
+      main: 'main.js'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
