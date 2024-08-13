@@ -1,8 +1,8 @@
 USDOE:
-  - title: REDWOOD -- Resilient Federated Workflows in a Heterogeneous Computing Environment
+  - title: REDWOOD - Resilient Federated Workflows in a Heterogeneous Computing Environment
     role: SP
     period: 10/2023 - 09/2028 
-    amount: $10,0000
+    amount: $10,0000,000
     program: US Department of Energy, Office of Advanced Scientific Computing Research  
     description:
        "We can optimize the resilience of the workflows by
