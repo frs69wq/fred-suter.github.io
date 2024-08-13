@@ -1,3 +1,15 @@
+- year: 2024
+  entries:
+    - title: Challenges and Requirements to Drive Workflows from the Data Plane
+      type: Invited talk
+      event: 2024 CWL Conference
+      location: Amsterdam, Netherlands
+      link: https://cwl.discourse.group/t/challenges-and-requirements-to-drive-workflows-from-the-data-plane/905
+    - title: Challenges and Requirements to Drive Workflows from the Data Plane 
+      type: Invited talk
+      event: SIAM Conference on Parallel Processing for Scientific Computing, Driving Scientific Workflows from the Data Plane minisymposium
+      location: Baltimore, USA
+      link: https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78042
 - year: 2023
   entries:
     - title: Driving Modern Workflows from the Data Plane
