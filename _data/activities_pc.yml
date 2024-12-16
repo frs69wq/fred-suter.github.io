@@ -1,6 +1,9 @@
 - conference: IEEE/ACM International Conference for High Performance Computing, Networking, Storage, and Analysis
   series: SC
   entries:
+    - year: 2025
+      location: Saint Louis, USA
+      link: https://sc25.supercomputing.org
     - year: 2024
       location: Atlanta, USA
       link: https://sc24.supercomputing.org
@@ -45,6 +48,10 @@
 - conference: IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing
   series: CCGrid
   entries:
+    - year: 2025
+      edition: 25st
+      location: Tromsø, Norway
+      link: https://site.uit.no/ccgrid2025/
     - year: 2021
       edition: 21st
       location: Melbourne, Australia
@@ -168,13 +175,21 @@
     - year: 2010
       location:  Valencia, Spain
 
+- conference: Job Scheduling Strategies for Parallel Processing
+  series: JSSPP
+  entries:
+    - year: 2025
+      edition: 28th
+      location: Milan, Italy
+      link: https://jsspp.org/
+
 - conference: Workflows in Support of Large-Scale Science Workshop
   series: WORKS
   entries:
     - year: 2024
       edition: 19th
       location: Atlanta, USA
-      link: https://works-workshop.org/
+      link: https://works-workshop.org/2024
     - year: 2023
       edition: 18th
       location: Denver, USA
