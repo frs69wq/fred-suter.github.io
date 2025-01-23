@@ -8,10 +8,8 @@ gem "jekyll-paginate"
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
 gem "jekyll-feed"
-gem "jekyll-scholar"
-
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem "jekyll-scholar", group: :jekyll_plugins
+gem "jekyll-redirect-from", group: :jekyll_plugins
 
 gem "webrick", "~> 1.7"
 gem "ffi", "1.16.3"
