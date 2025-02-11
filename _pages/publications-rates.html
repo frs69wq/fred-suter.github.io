@@ -1,0 +1,40 @@
+---
+layout: default
+bibra_iscurrent: current-menu-item
+permalink: /publications-rates.html
+---
+
+<div id="main" class="site-main">
+  <div id="main-content" class="single-page-content">
+    <div id="primary" class="content-area">
+      <div id="content" class="page-content
+			       site-content single-post" role="main">
+        <div class="page-title">
+	  
+	  <h2><i class="linecons linecons-tag"></i>&nbsp; Acceptance Rates of Research Publications in Conferences </h2>
+        </div>
+	<div class="row">
+	  <div class="col-xs-12 col-sm-12">
+	    <table border="0" cellspacing="1" cellpadding="3">
+	      <tr>
+		<td style="text-align:center"><b>Conference</b></td>
+		<td style="text-align:center"><b>Acceptance Rate</b></td>
+		<td style="text-align:center"><b>(Accept/Submit)</b></td>
+		<!--td style="text-align:center"><b>Core ranking</b></td-->
+	      </tr>
+              {% assign r = site.data.rates %}
+              {% for e in r %}
+               <tr>                                                                                                                                         
+                <td><b>{{ e.conference }}'{{ e.year }}</b></td>
+		<td style="text-align:center"><b> {{ e.rate }}%</b></td>
+                <td style="text-align:center"><b> {{ e.accepted }} / {{e.submitted}}</b></td>
+                <!--td style="text-align:center"><b> {{ e.core }}</b></td-->
+              {% endfor %}
+              </tr>
+	    </table>  
+           </div>
+	</div>
+      </div>
+    </div>
+  </div>
+</div>
