@@ -1,36 +1,29 @@
 - conference: e-Science
   year: 2023
-  rate:
-  accepted:
-  submitted:
+  rate: 48.8
+  accepted: 40
+  submitted: 82
   core:
   citations:
 - conference: ICAPS
   year: 2022
-  rate:
-  accepted:
-  submitted:
+  rate: 25.6
+  accepted: 43
+  submitted: 181
   core:
   citations:
 - conference: e-Science
   year: 2022
-  rate:
-  accepted:
-  submitted:
+  rate: 63.8
+  accepted: 37
+  submitted: 58
   core:
   citations:
 - conference: Cluster
   year: 2022
-  rate:
-  accepted:
-  submitted:
-  core:
-  citations:
-- conference: JSSPP
-  year: 2021
-  rate: 58.8
-  accepted: 10
-  submitted: 17
+  rate: 23.7
+  accepted: 43
+  submitted: 181
   core:
   citations:
 - conference: EuroPar
@@ -47,25 +40,11 @@
   submitted: 228
   core:
   citations:
-- conference: JSSPP
-  year: 2018
-  rate: 58.3
-  accepted: 7
-  submitted: 12
-  core:
-  citations:
 - conference: CCGrid
   year: 2017
   rate: 23
   accepted: 64
   submitted: 280
-  core:
-  citations:
-- conference: JSSPP
-  year: 2017
-  rate: 50
-  accepted: 10
-  submitted: 20
   core:
   citations:
 - conference: CCGrid
@@ -206,5 +185,12 @@
   rate: 36.2
   accepted: 100
   submitted: 276
+  core:
+  citations:
+- conference: PDPTA
+  year: 2001
+  rate: -
+  accepted: -
+  submitted: -
   core:
   citations:
