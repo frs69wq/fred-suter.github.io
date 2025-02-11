@@ -3,194 +3,222 @@
   rate: 48.8
   accepted: 40
   submitted: 82
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/648/"
+  core_rank: "B"
   citations:
 - conference: ICAPS
   year: 2022
   rate: 25.6
   accepted: 43
   submitted: 181
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/919/"
+  core_rank: "A*"
   citations:
 - conference: e-Science
   year: 2022
   rate: 63.8
   accepted: 37
   submitted: 58
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/648/"
+  core_rank: "B"
   citations:
 - conference: Cluster
   year: 2022
   rate: 23.7
   accepted: 43
   submitted: 181
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/632/"
+  core_rank: "A"
   citations:
 - conference: EuroPar
   year: 2019
   rate: 25.4
   accepted: 36
   submitted: 142
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/2022/"
+  core_rank: "A"
   citations:
 - conference: ICCS
   year: 2019
   rate: 28.5
   accepted: 65
   submitted: 228
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/952/"
+  core_rank: "A"
   citations:
 - conference: CCGrid
   year: 2017
   rate: 23
   accepted: 64
   submitted: 280
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/695/"
+  core_rank: "A"
   citations:
 - conference: CCGrid
   year: 2015
   rate: 25.7
   accepted: 69
   submitted: 268
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/695/"
+  core_rank: "A"
   citations:
 - conference: ICA3PP
   year: 2012
   rate: 25
   accepted: 39
   submitted: 156
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/905/"
+  core_rank: "B"
   citations:
 - conference: CCGrid
   year: 2012
   rate: 27.5
   accepted: 83
   submitted: 308
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/695/"
+  core_rank: "A"
   citations:
 - conference: IPDPS
   year: 2011
   rate: 19.6
   accepted: 112
   submitted: 571
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/688/"
+  core_rank: "A"
   citations:
 - conference: 3PGCIC
   year: 2010
   rate: 36
   accepted: 37
   submitted: 103
-  core:
+  core_link: ""
+  core_rank: "-"
   citations:
 - conference: ICPP
   year: 2010
   rate: 32
   accepted: 72
   submitted: 225
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/1167/"
+  core_rank: "A"
   citations:
 - conference: CCGrid
   year: 2010
   rate: 23.3
   accepted: 51
   submitted: 219
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/695/"
+  core_rank: "A"
   citations:
 - conference: Cluster
   year: 2008
   rate: 30.4
   accepted: 28
   submitted: 92
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/695/"
+  core_rank: "A"
   citations:
 - conference: PDP
   year: 2008
   rate: 40
   accepted: 56
   submitted: 140
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/465/"
+  core_rank: "C"
   citations:
 - conference: PDCS
   year: 2007
   rate: 47.2
   accepted: 84
   submitted: 178
-  core:
+  core_link: ""
+  core_rank: "-"
   citations:
 - conference: GRID
   year: 2007
   rate: 21.9
   accepted: 37
   submitted: 169
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/784/"
+  core_rank: "A"
   citations:
 - conference: ISPDC
   year: 2007
   rate: 53.3
   accepted: 48
   submitted: 80
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/1405/"
+  core_rank: "C"
   citations:
 - conference: ICPADS
   year: 2006
   rate: 38
   accepted: 69
   submitted: 183
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/1164/"
+  core_rank: "B"
   citations:
 - conference: IPDPS
   year: 2005
   rate: 33.5
   accepted: 115
   submitted: 343
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/688/"
+  core_rank: "A"
   citations:
 - conference: EuroPar
   year: 2004
   rate: 35.2
   accepted: 124
   submitted: 352
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/2022/"
+  core_rank: "A"
   citations:
 - conference: IPDPS
   year: 2003
   rate: 29.2
   accepted: 119
   submitted: 407
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/688/"
+  core_rank: "A"
   citations:
 - conference: ASIAN
   year: 2002
   rate: 56.6
   accepted: 17
   submitted: 30
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/166/"
+  core_rank: "B"
   citations:
 - conference: EuroPar
   year: 2002
   rate: 47
   accepted: 125
   submitted: 265
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/2022/"
+  core_rank: "A"
   citations:
 - conference: ISPDC
   year: 2002
   rate: 28
   accepted: 25
   submitted: 89
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/1405/"
+  core_rank: "C"
   citations:
 - conference: IPDPS
   year: 2001
   rate: 36.2
   accepted: 100
   submitted: 276
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/688/"
+  core_rank: "A"
   citations:
 - conference: PDPTA
   year: 2001
   rate: "-"
   accepted: "-"
   submitted: "-"
-  core:
+  core_link: "https://portal.core.edu.au/conf-ranks/695/"
+  core_rank: "C"
   citations:

@@ -16,13 +16,16 @@ permalink: /publications-rates.html
 	<div class="row">
 	  <div class="col-xs-12 col-sm-12">
 
-            I try to keep track of the acceptances rates of the conferences (not workshops) where articles I wrote were accepted.
+            <h4>I try to keep track of the acceptances rates of the
+	    conferences (not workshops) where articles I wrote were
+	    accepted.<br>&nbsp;<br></h4>
+	    
             <table border="0" cellspacing="1" cellpadding="3">
 	      <tr>
 		<td style="text-align:center"><b>Conference</b></td>
 		<td style="text-align:center"><b>Acceptance Rate</b></td>
 		<td style="text-align:center"><b>(Accept/Submit)</b></td>
-		<!--td style="text-align:center"><b>Core ranking</b></td-->
+		<td style="text-align:center"><b>Core ranking</b></td>
 	      </tr>
               {% assign r = site.data.rates %}
               {% for e in r %}
@@ -30,7 +33,9 @@ permalink: /publications-rates.html
                 <td><b>{{ e.conference }}'{{ e.year }}</b></td>
 		<td style="text-align:center"><b> {{ e.rate }}%</b></td>
                 <td style="text-align:center"><b> {{ e.accepted }} / {{e.submitted}}</b></td>
-                <!--td style="text-align:center"><b> {{ e.core }}</b></td-->
+                <td style="text-align:center">
+		  <b><a href="{{ e.core_link }}"> {{ e.core_rank }}</a></b>
+		</td>
               {% endfor %}
               </tr>
 	    </table>  
