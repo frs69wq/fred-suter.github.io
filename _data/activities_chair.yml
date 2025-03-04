@@ -1,12 +1,12 @@
-# - year: 2025
-#  entries:
-#    - conference: International Conference on Parallel Processing
-#      series: ICPP
-#      role: Workshop Chair
-#      edition: 54th
-#      location: San Diego, USA
-#       link: https://escience-conference.org/2023
-      
+- year: 2025
+  entries:
+    - conference: International Conference on Parallel Processing
+      series: ICPP
+      role: Workshop Co-Chair
+      edition: 54th
+      location: San Diego, USA
+      link: https://icpp2025.sdsc.edu/
+
 - year: 2024
   entries:
     - conference: IEEE/ACM International Conference for High Performance Computing, Networking, Storage, and Analysis
