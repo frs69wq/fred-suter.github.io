@@ -45,6 +45,14 @@
       location: Tokyo, Japan
       link: https://www.hpcs.cs.tsukuba.ac.jp/icpp2019
 
+- conference: IEEE International Conference on High Performance Computing, Data, and Analytics
+  series: HiPC
+  entries:
+    - year: 2025
+      edition: 32nd
+      location: Hyderabad, India
+      link: https://www.hipc.org/
+
 - conference: IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing
   series: CCGrid
   entries:
