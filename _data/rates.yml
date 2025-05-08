@@ -5,7 +5,7 @@
   submitted: 82
   core_link: "https://portal.core.edu.au/conf-ranks/648/"
   core_rank: "B"
-  citations: 9
+  citations: 10
 - conference: ICAPS
   year: 2022
   rate: 25.6
@@ -61,7 +61,7 @@
   submitted: 268
   core_link: "https://portal.core.edu.au/conf-ranks/695/"
   core_rank: "A"
-  citations: 43
+  citations: 45
 - conference: ICA3PP
   year: 2012
   rate: 25
@@ -149,7 +149,7 @@
   submitted: 80
   core_link: "https://portal.core.edu.au/conf-ranks/1405/"
   core_rank: "C"
-  citations: 93
+  citations: 94
 - conference: ICPADS
   year: 2006
   rate: 38

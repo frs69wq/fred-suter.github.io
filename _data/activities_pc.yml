@@ -109,6 +109,10 @@
 - conference: IEEE International Symposium on Computer Architecture and High Performance Computing
   series: SBAC-PAD
   entries:
+    - year: 2025
+      edition: 37th
+      location: Bonito, Brazil
+      link: https://sbac-pad2025.ufms.br/
     - year: 2024
       edition: 36th
       location: Hilo, USA
