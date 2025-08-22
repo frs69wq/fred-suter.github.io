@@ -1,16 +1,16 @@
 - year: 2025
   entries:
-    - title: Toward fully autonomous workflows: handling errors and failures and how AI can help
+    - title: Toward fully autonomous workflows&colon; handling errors and failures and how AI can help
       type: Keynote
       event: First Workshop on Workflows, Intelligent Scientific Data, and Optimization for Automated Management
       location: San Diego, USA
       link: https://workflows.community/workshops/wisdom-2025/
-    - title: I/O Simulation: from resources to complex workloads 
+    - title: I/O Simulation&colon; from resources to complex workloads 
       type: Keynote
       event: Fifth Workshop on Re-envisioning Extreme-Scale I/O for Emerging Hybrid HPC Workloads
       location: Edinburgh, UK
       link: https://sites.google.com/view/rexio/
-    - title: Eco-Driven AI-HPC: Workflows, data & modeling
+    - title: Eco-Driven AI-HPC&colon; Workflows, data & modeling
       type: Invited talk
       event: Hawaiʻi Scientific Data Workshop
       location: Maui, USA
