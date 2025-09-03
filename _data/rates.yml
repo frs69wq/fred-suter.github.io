@@ -1,3 +1,11 @@
+- conference: Cluster
+  year: 2025
+  rate: 20.5
+  accepted: 40
+  submitted: 195
+  core_link: "https://portal.core.edu.au/conf-ranks/632/"
+  core_rank: "B"
+  citations: "-"
 - conference: e-Science
   year: 2023
   rate: 48.8
