@@ -6,6 +6,14 @@
   core_link: "https://portal.core.edu.au/conf-ranks/632/"
   core_rank: "B"
   citations: "-"
+- conference: PDP
+  year: 2025
+  rate: 35.8
+  accepted: 29
+  submitted: 81
+  core_link: "https://portal.core.edu.au/conf-ranks/465/"
+  core_rank: "C"
+  citations: "-"
 - conference: e-Science
   year: 2023
   rate: 48.8
