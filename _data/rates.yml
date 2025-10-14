@@ -21,7 +21,7 @@
   submitted: 82
   core_link: "https://portal.core.edu.au/conf-ranks/648/"
   core_rank: "B"
-  citations: 10
+  citations: 14
 - conference: ICAPS
   year: 2022
   rate: 25.6
@@ -29,7 +29,7 @@
   submitted: 181
   core_link: "https://portal.core.edu.au/conf-ranks/919/"
   core_rank: "A*"
-  citations: 2
+  citations: 3
 - conference: e-Science
   year: 2022
   rate: 63.8
@@ -37,7 +37,7 @@
   submitted: 58
   core_link: "https://portal.core.edu.au/conf-ranks/648/"
   core_rank: "B"
-  citations: "0+5"
+  citations: "2+6"
 - conference: Cluster
   year: 2022
   rate: 23.7
@@ -61,7 +61,7 @@
   submitted: 228
   core_link: "https://portal.core.edu.au/conf-ranks/952/"
   core_rank: "A"
-  citations: 13
+  citations: 18
 - conference: CCGrid
   year: 2017
   rate: 23
@@ -77,7 +77,7 @@
   submitted: 268
   core_link: "https://portal.core.edu.au/conf-ranks/695/"
   core_rank: "A"
-  citations: 45
+  citations: 43
 - conference: ICA3PP
   year: 2012
   rate: 25
@@ -101,7 +101,7 @@
   submitted: 571
   core_link: "https://portal.core.edu.au/conf-ranks/688/"
   core_rank: "A"
-  citations: 67
+  citations: 69
 - conference: 3PGCIC
   year: 2010
   rate: 36
@@ -109,7 +109,7 @@
   submitted: 103
   core_link: ""
   core_rank: "-"
-  citations: 7
+  citations: 8
 - conference: ICPP
   year: 2010
   rate: 32
@@ -165,7 +165,7 @@
   submitted: 80
   core_link: "https://portal.core.edu.au/conf-ranks/1405/"
   core_rank: "C"
-  citations: 94
+  citations: 93
 - conference: ICPADS
   year: 2006
   rate: 38
@@ -173,7 +173,7 @@
   submitted: 183
   core_link: "https://portal.core.edu.au/conf-ranks/1164/"
   core_rank: "B"
-  citations: 66
+  citations: 68
 - conference: IPDPS
   year: 2005
   rate: 33.5
@@ -205,7 +205,7 @@
   submitted: 30
   core_link: "https://portal.core.edu.au/conf-ranks/166/"
   core_rank: "B"
-  citations: 17
+  citations: 18
 - conference: EuroPar
   year: 2002
   rate: 47
@@ -213,7 +213,7 @@
   submitted: 265
   core_link: "https://portal.core.edu.au/conf-ranks/2022/"
   core_rank: "A"
-  citations: 133
+  citations: 134
 - conference: ISPDC
   year: 2002
   rate: 28
@@ -237,4 +237,4 @@
   submitted: "-"
   core_link: "https://portal.core.edu.au/conf-ranks/695/"
   core_rank: "C"
-  citations: 52
+  citations: 54
