@@ -56,8 +56,12 @@
 - conference: IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing
   series: CCGrid
   entries:
+    - year: 2026
+      edition: 26th
+      location: Sidney, Australia
+      link: https://ccgrid2026.cdms.westernsydney.edu.au/
     - year: 2025
-      edition: 25st
+      edition: 25th
       location: Tromsø, Norway
       link: https://site.uit.no/ccgrid2025/
     - year: 2021
@@ -190,6 +194,10 @@
 - conference: Job Scheduling Strategies for Parallel Processing
   series: JSSPP
   entries:
+    - year: 2026
+      edition: 29th
+      location: New Orleans, USA
+      link: https://jsspp.org/
     - year: 2025
       edition: 28th
       location: Milan, Italy
@@ -198,6 +206,10 @@
 - conference: Workflows in Support of Large-Scale Science Workshop
   series: WORKS
   entries:
+    - year: 2025
+      edition: 20th
+      location: Saint Louis, USA
+      link: https://works-workshop.org/
     - year: 2024
       edition: 19th
       location: Atlanta, USA
