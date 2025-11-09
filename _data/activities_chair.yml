@@ -1,5 +1,11 @@
 - year: 2025
   entries:
+    - conference: IEEE/ACM International Conference for High Performance Computing, Networking, Storage, and Analysis
+      series: SC
+      role: "BoF Co-organizer"
+      note: "Workflows Community: Bridging Intelligent Workflows with Quantum and HPC for Scientific Discovery"
+      location: Saint Louis, USA
+      link: http://sc25.supercomputing.org
     - conference: International Conference on Parallel Processing
       series: ICPP
       role: Workshop Co-Chair
