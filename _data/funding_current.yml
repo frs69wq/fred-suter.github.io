@@ -23,16 +23,14 @@ USDOE:
        characterization. Scientists are using this unique facility to
        develop plants that can “mine” rare earth elements critical for
        energy technologies."
-
-
-- title: SWARM - Scientific Workflow Applications on Resilient Metasystem
+  - title: SWARM - Scientific Workflow Applications on Resilient Metasystem
     role: Co-PI
     period: 10/2023 - 09/2028 
     amount: $8,7500,000
     program: US Department of Energy, Office of Advanced Scientific Computing Research  
     id: DE-SC0024387
     description:
-	"Existing adaptive management and resource partitioning
+        "Existing adaptive management and resource partitioning
 	strategies developed for resilient infrastructures are often
 	static, based on rules developed by experts with years of
 	experience, and dependent on centralized control. While
