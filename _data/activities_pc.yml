@@ -113,6 +113,9 @@
 - conference: IEEE International Symposium on Computer Architecture and High Performance Computing
   series: SBAC-PAD
   entries:
+    - year: 2026
+      edition: 38th
+      link: https://coco-arcos.github.io/sbac-pad2026/
     - year: 2025
       edition: 37th
       location: Bonito, Brazil
