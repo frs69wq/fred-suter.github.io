@@ -109,6 +109,12 @@
       edition: 14th
       location: Amsterdam, Netherlands
 
+- conference: International Conference on Big Data
+  series: BigData
+  entries:
+    - year: 2026
+      edition: 14th
+      link: https://bigdataieee.org/BigData2026
 
 - conference: IEEE International Symposium on Computer Architecture and High Performance Computing
   series: SBAC-PAD
@@ -193,6 +199,14 @@
       location:  Noordwijkerhout, The Netherlands
     - year: 2010
       location:  Valencia, Spain
+
+- conference: Workshop on Extreme-Scale Storage and Analysis
+  series: ESSA
+  entries:
+    - year: 2026
+      edition: 7th
+      location: New Orleans, USA
+      link: https://sites.google.com/view/essa-2026/
 
 - conference: Job Scheduling Strategies for Parallel Processing
   series: JSSPP
